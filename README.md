@@ -39,3 +39,22 @@ Setelah kita mengubah data pada list, sekarang kita akan mencoba untuk menambahk
 ### Output 
 
 ![gambar](ss/07.jpg)
+ 
+ # Tugas Praktikum 4
+
+ ### Flowchart 
+ 
+ ![gambar](ss/11.jpg)
+
+ saya menggunakan perintah while untuk mengulang pertanyaan yang akan diinput. maka outputnya akan ada pertanyaan tambah data jika jawab "y" maka pertanyaan akan terulang kembali dan diiput kembali seperti sebelumnya, jika menjawab "t" maka perintah selesai dan keluar output hasil inputan. dengan cara itu kita bisa menginput lebih dari 1 inputan atau sesuai yg kita inginkan.
+
+ ### input 
+
+ ![gambar](ss/13.jpg)
+
+ ### output
+
+ ![gambar](ss/12.jpg)
+
+ ### Terima Kasih 
+ 
